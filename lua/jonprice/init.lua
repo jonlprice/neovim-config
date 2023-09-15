@@ -1,10 +1,6 @@
 require("jonprice.set")
 require("jonprice.remap")
 
--- DO NOT INCLUDE THIS
-vim.opt.rtp:append("~/personal/streamer-tools")
--- DO NOT INCLUDE THIS
-
 local augroup = vim.api.nvim_create_augroup
 local jonpriceGroup = augroup('jonprice', {})
 
