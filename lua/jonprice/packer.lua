@@ -55,6 +55,7 @@ return require('packer').startup(function(use)
 		  {'williamboman/mason.nvim'},
 		  {'williamboman/mason-lspconfig.nvim'},
 		  {'jose-elias-alvarez/null-ls.nvim'},
+		  {'MunifTanjim/prettier.nvim'},
 
 		  -- Autocompletion
 		  {'hrsh7th/nvim-cmp'},
