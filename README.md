@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Jon's init.lua
 
 Initial config based on ThePrimeagen's init.lua
