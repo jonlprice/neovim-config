@@ -75,6 +75,10 @@ return require('packer').startup(function(use)
   -- use("github/copilot.vim")
   use("eandrju/cellular-automaton.nvim")
   use("laytan/cloak.nvim")
+  use 'javiorfo/nvim-soil'
+
+  -- Optional for puml syntax highlighting:
+  use 'javiorfo/nvim-nyctophilia'
 
 end)
 
